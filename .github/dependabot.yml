@@ -9,13 +9,13 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily" # can be done using a cron interval
-      time: "13:40"
+      time: "14:10"
       timezone: "Europe/Bratislava"
-    groups:                     
-      express-lodash:               
-        patterns:              
+    groups:
+      express-lodash:
+        patterns:
           - "express"
           - "lodash"
-        update-types:          
+        update-types:
           - "minor"
           - "patch"
