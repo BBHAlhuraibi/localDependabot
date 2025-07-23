@@ -9,7 +9,7 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily" # can be done using a cron interval
-      time: "14:20"
+      time: "14:50"
       timezone: "Europe/Bratislava"
     groups:
       express-lodash:
