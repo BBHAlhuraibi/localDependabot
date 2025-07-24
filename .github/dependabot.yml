@@ -10,7 +10,7 @@ updates:
     schedule:
       interval: "daily" # can be done using a cron interval
       time: "09:00"
-      timezone: "Europe/Bratislava"
+      timezone: "Europe/Vienna"
     groups:
       express-lodash:
         patterns:
